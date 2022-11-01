@@ -1,3 +1,8 @@
+# Implementation of eigenhits library
+# Author: Tomasz Hachaj
+# e-mail: tomekhachaj@o2.pl
+# 2022
+
 import numpy as np
 v_correct = np.load("./pca.res/v_st_13804.npy")
 w = np.load("./pca.res/w_st_13804.npy")

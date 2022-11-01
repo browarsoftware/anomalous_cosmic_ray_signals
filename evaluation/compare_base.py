@@ -1,3 +1,8 @@
+# Implementation of eigenhits library
+# Author: Tomasz Hachaj
+# e-mail: tomekhachaj@o2.pl
+# 2022
+
 import math
 
 import numpy as np

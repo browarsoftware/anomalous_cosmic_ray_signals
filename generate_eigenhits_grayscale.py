@@ -1,11 +1,13 @@
+# Implementation of eigenhits library
+# Author: Tomasz Hachaj
+# e-mail: tomekhachaj@o2.pl
+# 2022
+
 import cv2
 import numpy as np
 import os
 from random import sample
-# Generates eigenhits for
-# Author: Tomasz Hachaj
-# e-mail: tomekhachaj@o2.pl
-# 2023
+
 
 #path = 'd:\\dane\\credo\\png_align_image\\'
 path = 'd:\\dane\\credo\\nowe\\wybrane_align2\\'
