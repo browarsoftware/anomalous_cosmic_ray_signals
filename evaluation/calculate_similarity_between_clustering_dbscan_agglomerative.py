@@ -1,4 +1,4 @@
-# Implementation of eigenhits library
+# Implementation of Eigenhits
 # Author: Tomasz Hachaj
 # e-mail: tomekhachaj@o2.pl
 # 2022
