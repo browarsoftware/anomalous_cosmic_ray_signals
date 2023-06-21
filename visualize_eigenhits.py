@@ -1,6 +1,6 @@
 # Implementation of Eigenhits
-# Author: Tomasz Hachaj
-# e-mail: tomekhachaj@o2.pl
+# Author: Anonymized
+# e-mail: Anonymized
 # 2022
 
 import numpy as np
