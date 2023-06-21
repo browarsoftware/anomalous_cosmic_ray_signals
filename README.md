@@ -10,7 +10,7 @@ Keywords: Cosmic-ray shower; anomalies detection; CMOS detectors; Principal comp
 
 ## Source code author
 
-Author: [Tomasz Hachaj](tomekhachaj@o2.pl)
+Author: [Anonymized](Anonymized)
 
 ## Requirements
 
